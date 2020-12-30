@@ -2,6 +2,11 @@
 created & coded by @kazion#1337
 
 ---
+## Setup:
+- head over to `settings.json` and enter your token
+- set your prefix to whatever you want and the bot ison 
+
+---
 ## Commands:
 
 * `>admin` - to get admin perms.
