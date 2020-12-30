@@ -1,0 +1,25 @@
+{
+  "name": "nuke-bot",
+  "version": "1.0.0",
+  "description": "A nuke-bot made by kazion1337",
+  "main": "nuke.js",
+  "scripts": {
+    "start": "node nuke.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/kazion1337"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
