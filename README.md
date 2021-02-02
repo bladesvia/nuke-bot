@@ -23,3 +23,5 @@ will add more soon because I'm lazy 🥱
 [https://glitch.com/edit/#!/remix/kazion1337-nuke-bot](https://glitch.com/edit/#!/remix/kazion1337-nuke-bot)
 
 ---
+
+- [Click Here](https://repl.it/github/kazion1337/nuke-bot) to run it in repl.it
